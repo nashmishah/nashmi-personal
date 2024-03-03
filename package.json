@@ -2,7 +2,7 @@
   "name": "nashmi-frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://nashmishah.github.io/nashmi_personal/",
+  "homepage": "https://nashmishah.github.io/nashmi-personal/",
   "type": "module",
   "scripts": {
     "dev": "vite",
