@@ -1,0 +1,16 @@
+.main-navbar{
+    background-color: black;
+}
+
+.main-navbar-items{
+    display: flex;
+    list-style: none;
+    padding: 0px;
+}
+
+.main-navbar-item{
+    border: 2px solid grey;
+    padding: 0px 20px;
+}
+
+
